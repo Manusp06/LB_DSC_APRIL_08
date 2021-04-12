@@ -1,0 +1,4 @@
+Hi, Welcome to Learn Bay
+First month we are gonna learn about Python
+Then Statistics after which will get into ML
+Post completion of ML you will be eligible for referals
